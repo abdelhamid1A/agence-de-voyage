@@ -20,6 +20,9 @@
     background-position: center;
     height: 100vh;
     background-size: cover;
+    
+    width: 108%;
+
   }
   
   nav ul {

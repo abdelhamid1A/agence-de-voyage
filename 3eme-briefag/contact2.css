@@ -10,7 +10,7 @@
   }
   
   body{
-  
+    width: 107%;
   overflow-x:hidden;
   }
   
@@ -21,6 +21,7 @@
     background-position: center;
     height: 100vh;
     background-size: cover;
+
   }
   
   nav ul {
@@ -627,8 +628,7 @@ a{
 
 .contact {
     position: absolute;
-    left: 235px;
-    top: 411px;
+    top: 545px;
 }
 .contact h1 {
     font-size: 24px;
